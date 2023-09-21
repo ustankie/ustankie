@@ -12,8 +12,16 @@
     <img src="https://komarev.com/ghpvc/?username=ustankie&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-<h1 style="text-align:center">
+ h1 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+<h1 align="center">
   Hey there
   <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50px"/>
 </h1>
