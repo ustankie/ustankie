@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/IoP0PvbbSWGAM/giphy.gif?cid=ecf05e47orflga2y4yx73u75cxouqontvqjbp7qqh2bn87zv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+</div>
+
 ## Hi there 👋
 
 I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH University of Science and Technology in Cracow, Poland.
@@ -28,6 +32,5 @@ Basics of:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ustankie)](https://github.com/anuraghazra/github-readme-stats)
 
 
