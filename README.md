@@ -14,7 +14,8 @@
 
 
 <h1 align="center">
-  Hey there <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="100"/>
+    Hey there 
+    <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="100"/>
 </h1>
 
 
