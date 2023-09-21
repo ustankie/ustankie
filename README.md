@@ -9,6 +9,9 @@
     <img src="https://komarev.com/ghpvc/?username=ustankie&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div id ="badge2" align="center">
+    <img src="https://komarev.com/ghpvc/?username=ustankie&style=flat-square&color=blue" alt=""/>
+</div>
 ## Hi there 👋
 
 I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH University of Science and Technology in Cracow, Poland.
