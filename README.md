@@ -18,12 +18,12 @@ Basics of:
     
     
 • solved algorithmic problems from Algoruthms and Data Structures subject - in the fields of:
-  -🍡  **sorting algorithms** \
+  - 🍡  **sorting algorithms** \
         (quick sort, merge sort, counting sort, radix sort, heap sort)\
-  -📈  **graph algorithms **
+  - 📈  **graph algorithms **
         (BFS,DFS, Dijkstra, Bellman-Ford's algoruthm, Floyd - Warshall algorithm, Edmonds - Karp algorithm, Kuhn's algorithm, Prim's Algorithm, Kruskal's algorithm)\
-  -🏃‍♂️  dynamic programming\
-  -🤑  greedy algorithms\
+  - 🏃‍♂️  dynamic programming\
+  - 🤑  greedy algorithms\
 
 
 
