@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://classroomclipart.com/images/gallery/Animations/Computers/girl-on-telephone-using-computer-14.gif" width="200"/>
+  <img src="https://cdn.dribbble.com/users/1055435/screenshots/5714265/lightbulb-desk.gif" width="150"/>
 </div>
 
 ## Hi there 👋
