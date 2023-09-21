@@ -29,18 +29,29 @@
 <div align="center">
     I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science
     
- at AGH University of Science and Technology in Cracow, Poland.
+at AGH University of Science and Technology in Cracow, Poland  
+   
+</font>
+
 </div>
 
 
 
 ## 🔥 Stats:
 <div align="center">
-    <a href="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm" align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm" width=500/></a> 
+    <a href="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm" align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm&hide_border=true" width=500/></a> 
 </div>
+
+<div >
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=donut&theme=dracula"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=donut&theme=calm_pink&hide_border=true" width=400/></a> 
+</div>
+
+
 
 </body>
 </html>
+
+
 ## Skills
 
 Basics of:
