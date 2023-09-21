@@ -2,12 +2,14 @@
 
 I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH University of Science and Technology in Cracow, Poland.
 
-### Skills - basics of:
+### Skills
 
-©️  C
-🐧  Linux
-💲  bash 
-🐍  Python
+Basics of:
+  
+  ©️  C\
+  🐧  Linux\
+  💲  bash \
+  🐍  Python\
 
 
 
