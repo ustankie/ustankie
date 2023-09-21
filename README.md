@@ -1,4 +1,4 @@
-#Hi there 👋
+##Hi there 👋
 
 I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH University of Science and Technology in Cracow, Poland.
 
