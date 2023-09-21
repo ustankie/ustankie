@@ -62,6 +62,9 @@ Basics of:
 •  💲  bash \
 •  🐍  Python
 
+
+
+
 ## 👩‍💻 Examples of work
 
 • solved excercises from C laboratory - some very long, including the card game of war or a programme that gives information about succession to the British throne
