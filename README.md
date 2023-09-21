@@ -15,9 +15,10 @@ Basics of:
 ## Examples of work
 
 • solved excercises from C laboratory - some very long, including the card game of war or a programme that gives information about succession to the British throne
+
     
     
-• solved algorithmic problems from Algoruthms and Data Structures subject - in the fields of:
+• solved algorithmic problems from Algorithms and Data Structures subject - in the fields of:
   - 🍡  **sorting algorithms** \
         (quick sort, merge sort, counting sort, radix sort, heap sort)
   - 📈  **graph algorithms** \
