@@ -13,14 +13,13 @@
 </div>
 
 
-<h1 align="center">
-    Hey there 
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2doenZmZXZuZ2o4YWwyNGdzdWFxYnlod3RpdGhpaXlsdWN1YXliOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 id="hey" align="center">
+    Hey there <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px"/>
 </h1>
 
-
-I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH University of Science and Technology in Cracow, Poland.
-
+<div align="center">
+    I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH University of Science and Technology in Cracow, Poland.
+</div>
 
 ## Skills
 
