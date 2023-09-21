@@ -36,7 +36,7 @@
 
 ## 🔥 Stats:
 <div align="center">
-    <a href="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm" align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm"/></a> 
+    <a href="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm" align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm" width=500/></a> 
 </div>
 
 </body>
