@@ -11,7 +11,13 @@
 <div id ="badge2" align="center">
     <img src="https://komarev.com/ghpvc/?username=ustankie&style=flat-square&color=blue" alt=""/>
 </div>
-## Hi there 👋
+
+
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH University of Science and Technology in Cracow, Poland.
 
