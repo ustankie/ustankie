@@ -19,10 +19,10 @@
 </div>
 
 <div align="center">
-    <h3>
+    <h1>
         Hey there 
-        <a href=""><img src = "https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px" ></a>
-    </h3> 
+        <a href=""><img src = "https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" ></a>
+    </h1> 
    
 </div>
 
