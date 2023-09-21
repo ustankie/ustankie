@@ -75,7 +75,7 @@ Basics of:
   - 🍡  **sorting algorithms** \
         (quick sort, merge sort, counting sort, radix sort, heap sort)
   - 📈  **graph algorithms** \
-        (BFS,DFS, Dijkstra, Bellman-Ford's algoruthm, Floyd - Warshall algorithm, Edmonds - Karp algorithm, Kuhn's algorithm, Prim's Algorithm, Kruskal's algorithm)
+        (BFS,DFS, Dijkstra, Bellman-Ford's algorithm, Floyd - Warshall algorithm, Edmonds - Karp algorithm, Kuhn's algorithm, Prim's algorithm, Kruskal's algorithm)
   - 🏃‍♂️ **dynamic programming**
   - 🤑  **greedy algorithms**
 
