@@ -1,7 +1,5 @@
 <div id="header" align="center">
- 
     <img src="https://cdn.dribbble.com/users/1055435/screenshots/5714265/lightbulb-desk.gif" width="150"/>
- 
 </div>
 
 <div id ="badge">
