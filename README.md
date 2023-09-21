@@ -39,7 +39,7 @@ at AGH University of Science and Technology in Cracow, Poland
 
 ## 🔥 Stats 🔥
 <div align="center">
-    <a href="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&hide_boarder=true&theme=calm&background=556381" align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&hide_boarder=true&theme=calm&background=556381" width=500/></a> 
+    <a href="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&hide_boarder=true&theme=calm&background=556381" align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm&hide_border=true" width=500/></a> 
 </div>
 
 <div align="center">
