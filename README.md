@@ -13,7 +13,7 @@
 </div>
 
 
-<h1 align ="center">
+<h1>
   Hey there
   <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50px"/>
 </h1>
