@@ -3,7 +3,7 @@
 
     
 <div id="header" align="center">
-    <img src="https://media2.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=ecf05e475926kcqh8e72gq73xi51sasun7anpy45c76cw9ib&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
+    <img src="https://media2.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=ecf05e475926kcqh8e72gq73xi51sasun7anpy45c76cw9ib&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
 <div id ="badge" align="center">
