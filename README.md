@@ -6,6 +6,7 @@
    <a href="https://www.linkedin.com/in/urszula-stankiewicz-2ba7bb240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
    </a>
+    <img src="https://komarev.com/ghpvc/?username=ustankie&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## Hi there 👋
