@@ -1,12 +1,13 @@
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/urszula-stankiewicz-2ba7bb240/">
+ 
     <img src="https://cdn.dribbble.com/users/1055435/screenshots/5714265/lightbulb-desk.gif" width="150"/>
-  </a>
+ 
 </div>
 
 <div id ="badge">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-
+   <a href="https://www.linkedin.com/in/urszula-stankiewicz-2ba7bb240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+   </a>
 </div>
 
 ## Hi there 👋
