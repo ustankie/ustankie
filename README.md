@@ -71,7 +71,7 @@ Basics of:
 
     
     
-• solved algorithmic problems from Algorithms and Data Structures subject - in the fields of:
+• solved algorithmic problems from Algorithms and Data Structures course - in the fields of:
   - 🍡  **sorting algorithms** \
         (quick sort, merge sort, counting sort, radix sort, heap sort)
   - 📈  **graph algorithms** \
