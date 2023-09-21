@@ -44,7 +44,7 @@ at AGH University of Science and Technology in Cracow, Poland
 
 <div align="center">
    <!-- <a href="https://github-readme-stats.vercel.app/api?username=ustankie&theme=calm_pink&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=ustankie&theme=calm_pink&hide_border=true" /></a> -->
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=compact&theme=calm_pink&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=compact&theme=calm_pink&hide_border=true&bg_color=#373f51" width=400/></a> 
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=compact&theme=calm_pink&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=compact&theme=calm_pink&hide_border=true&bg_color="#373f51" width=500/></a> 
 </div>
 
 
