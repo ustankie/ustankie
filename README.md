@@ -2,6 +2,11 @@
   <img src="https://cdn.dribbble.com/users/1055435/screenshots/5714265/lightbulb-desk.gif" width="150"/>
 </div>
 
+<div id ="badge">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+
+</div>
+
 ## Hi there 👋
 
 I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH University of Science and Technology in Cracow, Poland.
