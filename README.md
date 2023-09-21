@@ -6,10 +6,10 @@ I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH Un
 
 Basics of:
   
-  ©️  C\
-  🐧  Linux\
-  💲  bash \
-  🐍  Python\
+•  ©️  C\
+•  🐧  Linux\
+•  💲  bash \
+•  🐍  Python
 
 
 
