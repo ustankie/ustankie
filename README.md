@@ -1,3 +1,7 @@
+<html>
+<body>
+
+    
 <div id="header" align="center">
     <img src="https://media2.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=ecf05e475926kcqh8e72gq73xi51sasun7anpy45c76cw9ib&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
 </div>
@@ -10,18 +14,26 @@
 
 <div id ="badge2" align="center">
     <img src="https://komarev.com/ghpvc/?username=ustankie&style=flat-square&color=blue" alt=""/>
+
+    
 </div>
 
-
-<h1 id="hey" align="center" fontsize="10">
-    Hey there <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px"/>
-</h1>
+<div align="center">
+    <h3>
+        Hey there 
+        <a href=""><img src = "https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px" ></a>
+    </h3> 
+   
+</div>
 
 <div align="center">
     I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science
     
  at AGH University of Science and Technology in Cracow, Poland.
 </div>
+
+</body>
+</html>
 
 ## Skills
 
