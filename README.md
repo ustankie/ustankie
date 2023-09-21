@@ -32,14 +32,13 @@
  at AGH University of Science and Technology in Cracow, Poland.
 </div>
 
-</body>
-</html>
+
 
 ## 🔥 Stats:
+<a href="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm"><img src="https://streak-stats.demolab.com?user=ustankie&theme=duskfox"/></a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ustabkie&theme=prussian)](https://git.io/streak-stats)
-
-
+</body>
+</html>
 ## Skills
 
 Basics of:
