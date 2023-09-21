@@ -39,11 +39,12 @@ at AGH University of Science and Technology in Cracow, Poland
 
 ## 🔥 Stats:
 <div align="center">
-    <a href="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm&hide_border=true" align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm&hide_border=true" width=500/></a> 
+    <a href="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&theme=calm&hide_border=true" align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=ustankie&hide_boarder=true&theme=calm" width=500/></a> 
 </div>
 
-<div >
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=donut&theme=calm_pink&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=donut&theme=calm_pink&hide_border=true" width=400/></a> 
+<div align="center">
+     <a href="https://github-readme-stats.vercel.app/api?username=ustankie&theme=calm_pink&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=ustankie&theme=calm_pink&hide_border=true" width=300/></a> 
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=donut&theme=calm_pink&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ustankie&layout=donut&theme=calm_pink&hide_border=true" width=300/></a> 
 </div>
 
 
