@@ -13,12 +13,14 @@
 </div>
 
 
-<h1 id="hey" align="center">
+<h1 id="hey" align="center" fontsize="10">
     Hey there <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px"/>
 </h1>
 
 <div align="center">
-    I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science at AGH University of Science and Technology in Cracow, Poland.
+    I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science
+    
+ at AGH University of Science and Technology in Cracow, Poland.
 </div>
 
 ## Skills
