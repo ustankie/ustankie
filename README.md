@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-    I'm Urszula Stankiewicz and I'm a 2nd year student of Computer Science
+    I'm Urszula Stankiewicz and I'm a Computer Science student
     
 at AGH University of Science and Technology in Cracow, Poland  
    
