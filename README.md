@@ -59,10 +59,9 @@ at AGH University of Science and Technology in Cracow, Poland
 - 📊  SQL
 
 Basics of:
-  
-•  ©️  C\
-•  💲  bash \
-•  🐍  Python
+- ©️  C\
+- 💲  bash \
+- 🐍  Python
 - 🇭   Haskell
 
 
