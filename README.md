@@ -54,13 +54,13 @@ at AGH University of Science and Technology in Cracow, Poland
 
 
 ## 💪 Skills
-- ♨️  Java\
-- 🐧  Linux\
+- ♨️  Java
+- 🐧  Linux
 - 📊  SQL
 
 Basics of:
-- ©️  C\
-- 💲  bash \
+- ©️  C
+- 💲  bash
 - 🐍  Python
 - 🇭   Haskell
 
