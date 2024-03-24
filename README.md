@@ -56,13 +56,17 @@ at AGH University of Science and Technology in Cracow, Poland
 ## 💪 Skills
 - ♨️  Java
 - 🐧  Linux
-- 📊  SQL
+- 📊  T-SQL, Oracle SQL
 
 Basics of:
 - ©️  C
 - 💲  bash
 - 🐍  Python
 - 🇭   Haskell
+
+Learning:
+- 🔮 Erlang
+- 🦀 Rust
 
 
 
